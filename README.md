@@ -1,3 +1,5 @@
+# IMPORTANT: This is a fork, of a [fork](https://github.com/NicolasDorier/snapdrop), from the original [Snapdrop](https://github.com/RobinLinus/snapdrop) repo. Alternatively, you can use [Pairdrop](https://pairdrop.net) ([original repo](https://github.com/schlagmichdoch/pairdrop)).
+
 # Snapdrop 
 
 [Snapdrop](https://snapdrop.net): local file sharing in your browser. Inspired by Apple's Airdrop.
